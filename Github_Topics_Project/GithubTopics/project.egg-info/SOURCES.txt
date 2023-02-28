@@ -1,0 +1,13 @@
+setup.py
+GithubTopics/__init__.py
+GithubTopics/items.py
+GithubTopics/middlewares.py
+GithubTopics/pipelines.py
+GithubTopics/settings.py
+GithubTopics/spiders/TopicSpider.py
+GithubTopics/spiders/__init__.py
+project.egg-info/PKG-INFO
+project.egg-info/SOURCES.txt
+project.egg-info/dependency_links.txt
+project.egg-info/entry_points.txt
+project.egg-info/top_level.txt

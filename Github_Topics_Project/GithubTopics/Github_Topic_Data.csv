@@ -1,0 +1,181 @@
+topics_description,topics_name,topics_url
+SpaceVim is a community-driven distribution of the vim editor that allows managing your plugins in layers.,SpaceVim,http://www.github.com//topics/spacevim
+Spring Boot is a coding and configuration model for Java applications.,Spring Boot,http://www.github.com//topics/spring-boot
+"SQL is a standard language for storing, retrieving and manipulating data in databases.",SQL,http://www.github.com//topics/sql
+Storybook is a UI development environment for your UI components.,Storybook,http://www.github.com//topics/storybook
+Get your team and customers the help they need.,Support,http://www.github.com//topics/support
+"Swift is a modern programming language focused on safety, performance, and expressivity.",Swift,http://www.github.com//topics/swift
+Symfony is a set of reusable PHP components and a web framework.,Symfony,http://www.github.com//topics/symfony
+"Telegram is a non-profit, cloud-based instant messaging service.",Telegram,http://www.github.com//topics/telegram
+TensorFlow is an open source software library for numerical computation.,Tensorflow,http://www.github.com//topics/tensorflow
+The terminal is an interface in which you can type and execute text-based commands.,Terminal,http://www.github.com//topics/terminal
+"An infrastructure-as-code tool for building, changing, and versioning infrastructure safely and efficiently.",Terraform,http://www.github.com//topics/terraform
+Eliminate bugs and ship with more confidence by adding these tools to your workflow.,Testing,http://www.github.com//topics/testing
+"Twitter is an online news and social networking service where users post and interact with messages, known as “Tweets”.",Twitter,http://www.github.com//topics/twitter
+TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.,TypeScript,http://www.github.com//topics/typescript
+Ubuntu is a Linux-based operating system.,Ubuntu,http://www.github.com//topics/ubuntu
+"Unity is a game engine used to create 2D/3D video games, and simulations for computers, consoles, and mobile devices.",Unity,http://www.github.com//topics/unity
+"Unreal Engine is used to create awesome games, and experiences for PC, mobile, console, VR, and AR.",Unreal Engine,http://www.github.com//topics/unreal-engine
+Vagrant is an open-source software product for building and maintaining portable virtual software development environments.,Vagrant,http://www.github.com//topics/vagrant
+Vim is a console-run text editor program.,Vim,http://www.github.com//topics/vim
+Virtual reality is an artificial environment displayed through digital means.,Virtual reality,http://www.github.com//topics/virtual-reality
+Vue.js is a JavaScript framework for building interactive web applications.,Vue.js,http://www.github.com//topics/vue
+Wagtail is an open source CMS written in Python and built on the Django web framework.,Wagtail,http://www.github.com//topics/wagtail
+Web Components are a set of web platform APIs developers can use to create custom HTML tags.,Web Components,http://www.github.com//topics/web-components
+A web application is any computer program that performs a specific function by using a web browser as its client.,Web app,http://www.github.com//topics/webapp
+Webpack is a bundler that takes modules with dependencies and creates static assets.,Webpack,http://www.github.com//topics/webpack
+Windows is Microsoft's GUI-based operating system.,Windows,http://www.github.com//topics/windows
+WordPlate is a modern WordPress stack which simplifies WordPress development.,WordPlate,http://www.github.com//topics/wordplate
+"WordPress is a popular content management system, used for websites and blogs.",WordPress,http://www.github.com//topics/wordpress
+Xamarin is a platform for developing iOS and Android applications.,Xamarin,http://www.github.com//topics/xamarin
+XML is subset of SGML (Standard Generalized Markup Language) used to store and transport data.,XML,http://www.github.com//topics/xml
+3D modeling is the process of virtually developing the surface and structure of a 3D object.,3D,http://www.github.com//topics/3d
+Ajax is a technique for creating interactive web applications.,Ajax,http://www.github.com//topics/ajax
+Algorithms are self-contained sequences that carry out a variety of tasks.,Algorithm,http://www.github.com//topics/algorithm
+Amp is a non-blocking concurrency library for PHP.,Amp,http://www.github.com//topics/amphp
+Android is an operating system built by Google designed for mobile devices.,Android,http://www.github.com//topics/android
+Angular is an open source web application platform.,Angular,http://www.github.com//topics/angular
+Ansible is a simple and powerful automation engine.,Ansible,http://www.github.com//topics/ansible
+An API (Application Programming Interface) is a collection of protocols and subroutines for building software.,API,http://www.github.com//topics/api
+Arduino is an open source hardware and software company and maker community.,Arduino,http://www.github.com//topics/arduino
+ASP.NET is a web framework for building modern web apps and services.,ASP.NET,http://www.github.com//topics/aspnet
+Atom is a open source text editor built with web technologies.,Atom,http://www.github.com//topics/atom
+An awesome list is a list of awesome things curated by the community.,Awesome Lists,http://www.github.com//topics/awesome
+Amazon Web Services provides on-demand cloud computing platforms on a subscription basis.,Amazon Web Services,http://www.github.com//topics/aws
+Azure is a cloud computing service created by Microsoft.,Azure,http://www.github.com//topics/azure
+"Babel is a compiler for writing next generation JavaScript, today.",Babel,http://www.github.com//topics/babel
+Bash is a shell and command language interpreter for the GNU operating system.,Bash,http://www.github.com//topics/bash
+Bitcoin is a cryptocurrency developed by Satoshi Nakamoto.,Bitcoin,http://www.github.com//topics/bitcoin
+"Bootstrap is an HTML, CSS, and JavaScript framework.",Bootstrap,http://www.github.com//topics/bootstrap
+A bot is an application that runs automated tasks over the Internet.,Bot,http://www.github.com//topics/bot
+C is a general purpose programming language that first appeared in 1972.,C,http://www.github.com//topics/c
+Chrome is a web browser from the tech company Google.,Chrome,http://www.github.com//topics/chrome
+Chrome extensions enable users to customize the Chrome browsing experience.,Chrome extension,http://www.github.com//topics/chrome-extension
+"A CLI, or command-line interface, is a console that helps users issue commands to a program.",Command line interface,http://www.github.com//topics/cli
+"Clojure is a dynamic, general-purpose programming language.",Clojure,http://www.github.com//topics/clojure
+"Automate your code review with style, quality, security, and test‑coverage checks when you need them.",Code quality,http://www.github.com//topics/code-quality
+Ensure your code meets quality standards and ship with confidence.,Code review,http://www.github.com//topics/code-review
+Compilers are software that translate higher-level programming languages to lower-level languages (e.g. machine code).,Compiler,http://www.github.com//topics/compiler
+"Automatically build and test your code as you push it upstream, preventing bugs from being deployed to production.",Continuous integration,http://www.github.com//topics/continuous-integration
+The coronavirus disease 2019 (COVID-19) is an infectious disease caused by SARS-CoV-2.,COVID-19,http://www.github.com//topics/covid-19
+C++ is a general purpose and object-oriented programming language.,C++,http://www.github.com//topics/cpp
+Git is the most widely used version control system.,Git,http://www.github.com//topics/git
+The GitHub API allows you to build applications that integrate with GitHub.,GitHub API,http://www.github.com//topics/github-api
+Go is a programming language built to resemble a simplified version of the C programming language.,Go,http://www.github.com//topics/go
+Google LLC is an American multinational technology company that specializes in Internet-related services and products.,Google,http://www.github.com//topics/google
+"Gradle is an open-source build tool that helps teams build, automate and deliver better software, faster.",Gradle,http://www.github.com//topics/gradle
+GraphQL is a query language for APIs and a runtime for fulfilling those queries with your existing data.,GraphQL,http://www.github.com//topics/graphql
+Gulp is a toolkit for automating and streamlining web development.,Gulp,http://www.github.com//topics/gulp
+"Hacktoberfest is a month-long celebration of open source projects, their maintainers, and the entire community of contributors.",Hacktoberfest,http://www.github.com//topics/hacktoberfest
+"Haskell is a functional programming language with non-strict semantics, and strong static typing.",Haskell,http://www.github.com//topics/haskell
+Homebrew is a package manager for macOS.,Homebrew,http://www.github.com//topics/homebrew
+"Homebridge is a utility for tying smart home devices together into Apple’s HomeKit framework, controlled by Siri.",Homebridge,http://www.github.com//topics/homebridge
+HTML is the fundamental markup language for webpages.,HTML,http://www.github.com//topics/html
+HTTP (Hypertext Transfer Protocol) is the standard for communication across the web.,HTTP,http://www.github.com//topics/http
+Icon fonts contain glyphs and symbols in place of textual letters.,Icon font,http://www.github.com//topics/icon-font
+iOS is the operating system for Apple's mobile products.,iOS,http://www.github.com//topics/ios
+IPFS is a peer-to-peer protocol for content-addressed sharing of data via a distributed file system.,IPFS,http://www.github.com//topics/ipfs
+"Java is an object-oriented programming language used mainly for web, desktop, embedded devices and mobile applications.",Java,http://www.github.com//topics/java
+JavaScript (JS) is a lightweight interpreted programming language with first-class functions.,JavaScript,http://www.github.com//topics/javascript
+"Jekyll is a simple, blog-aware static site generator.",Jekyll,http://www.github.com//topics/jekyll
+jQuery is a lightweight library that simplifies programming with JavaScript.,jQuery,http://www.github.com//topics/jquery
+"JSON (JavaScript Object Notation) allows for easy interchange of data, often between a program and a database.",JSON,http://www.github.com//topics/json
+"Julia is a high-level, high-performance dynamic programming language for numerical computing.",The Julia Language,http://www.github.com//topics/julia
+"Jupyter Notebooks are documents that contain live code, visualizations, and narrative text.",Jupyter Notebook,http://www.github.com//topics/jupyter-notebook
+Koa is an expressive middleware framework for Node.js servers that uses ES2017 async functions.,Koa,http://www.github.com//topics/koa
+Kotlin is a statically typed programming language for multiplatform applications.,Kotlin,http://www.github.com//topics/kotlin
+"Kubernetes is an open source system for automating deployment, scaling, and management of containerized applications.",Kubernetes,http://www.github.com//topics/kubernetes
+The PHP Framework for Web Artisans.,Laravel,http://www.github.com//topics/laravel
+LaTeX is a document preparation system.,LaTeX,http://www.github.com//topics/latex
+"A library is a collection of resources, often created to make programming a task simpler.",Library,http://www.github.com//topics/library
+Linux is an open source kernel.,Linux,http://www.github.com//topics/linux
+A cryptocurrency is a digital currency that uses cryptography.,Cryptocurrency,http://www.github.com//topics/cryptocurrency
+"Crystal is a self-hosted, general purpose programming language.",Crystal,http://www.github.com//topics/crystal
+"C# (""C sharp"") is an object-oriented and type-safe programming language.",C#,http://www.github.com//topics/csharp
+Cascading Style Sheets (CSS) is a language used most often to style and improve upon the appearance of views.,CSS,http://www.github.com//topics/css
+Data structures are a way of organizing and storing data.,Data structures,http://www.github.com//topics/data-structures
+Data visualization is the graphic representation of data and trends.,Data visualization,http://www.github.com//topics/data-visualization
+"A database is a structured set of data held in a computer, usually a server.",Database,http://www.github.com//topics/database
+Deep Learning is an artificial neural network composed of many layers.,Deep learning,http://www.github.com//topics/deep-learning
+Secure and manage your third-party dependencies.,Dependency management,http://www.github.com//topics/dependency-management
+Streamline your code deployment so you can focus on your product.,Deployment,http://www.github.com//topics/deployment
+Django is a web application framework for Python.,Django,http://www.github.com//topics/django
+Docker is a platform built for developers to build and run applications.,Docker,http://www.github.com//topics/docker
+Documentation is a set of information that describes a product to its users.,Documentation,http://www.github.com//topics/documentation
+Translation of a software interface and messages to another language plus to work with local cultures.,Localization,http://www.github.com//topics/localization
+"Phaser is a fun, free, and fast 2D game framework for making HTML5 games for desktop and mobile web browsers.",Phaser,http://www.github.com//topics/phaser
+".NET is a free, cross-platform, open source developer platform.",.NET,http://www.github.com//topics/dotnet
+Electron is a framework for building cross-platform desktop applications with web technology.,Electron,http://www.github.com//topics/electron
+"Elixir is a dynamic, functional language designed for building scalable and maintainable applications.",Elixir,http://www.github.com//topics/elixir
+"Emacs is an extensible, customizable, free text editor and computing environment.",Emacs,http://www.github.com//topics/emacs
+Ember is a framework for creating web applications.,Ember,http://www.github.com//topics/ember
+"Emojis are graphic symbols that represent an emotion, object, or concept.",Emoji,http://www.github.com//topics/emoji
+An emulator is any hardware or software that allows one computer to behave like another.,Emulator,http://www.github.com//topics/emulator
+The pluggable linting utility for JavaScript and JSX.,ESLint,http://www.github.com//topics/eslint
+Ethereum is a distributed public blockchain network.,Ethereum,http://www.github.com//topics/ethereum
+Express is a minimal Node.js framework for web and mobile applications.,Express,http://www.github.com//topics/express
+Firebase is a mobile app development platform that provides data analysis and database web services for developers.,Firebase,http://www.github.com//topics/firebase
+Firefox is an open source web browser from Mozilla.,Firefox,http://www.github.com//topics/firefox
+Flask is a web framework for Python based on the Werkzeug toolkit.,Flask,http://www.github.com//topics/flask
+A font is a particular style of typeface for text.,Font,http://www.github.com//topics/font
+"Lua is a lightweight, embeddable scripting language.",Lua,http://www.github.com//topics/lua
+Machine learning is a way of modeling and interpreting data that allows a piece of software to respond intelligently.,Machine learning,http://www.github.com//topics/machine-learning
+macOS is Apple's operating system.,macOS,http://www.github.com//topics/macos
+Markdown is a lightweight markup language.,Markdown,http://www.github.com//topics/markdown
+"Mastodon is a free, decentralized, open source microblogging network.",Mastodon,http://www.github.com//topics/mastodon
+Material Design is a unified system of theory and tools for creating digital experiences developed by Google.,Material Design,http://www.github.com//topics/material-design
+MATLAB is a programming platform for numerical computation and visualization.,MATLAB,http://www.github.com//topics/matlab
+Maven is a build automation tool used primarily for Java projects.,Maven,http://www.github.com//topics/maven
+Minecraft is a sandbox video game.,Minecraft,http://www.github.com//topics/minecraft
+"Mobile apps, mobile OS, mobile databases, & mobile testing frameworks.",Mobile,http://www.github.com//topics/mobile
+"Monero is a private, fungible, open source, decentralized cryptocurrency.",Monero,http://www.github.com//topics/monero
+PHP is a popular general-purpose scripting language that works particularly well for server-side web development.,PHP,http://www.github.com//topics/php
+"PICO-8 is a fantasy console for making, sharing and playing tiny games and other computer programs in Lua.",PICO-8,http://www.github.com//topics/pico-8
+Pixel art is a form of digital art where images are created and edited at the pixel level.,Pixel Art,http://www.github.com//topics/pixel-art
+PostgreSQL is an open source database system.,PostgreSQL,http://www.github.com//topics/postgresql
+Project management is about building scope and executing on the project's goals.,Project management,http://www.github.com//topics/project-management
+Publishing is the dissemination of making information available to the general public through various mediums.,Publishing,http://www.github.com//topics/publishing
+Progressive Web Apps are traditional web sites that are enhanced with native like features.,PWA,http://www.github.com//topics/pwa
+A framework is a reusable set of libraries or classes in software.,Framework,http://www.github.com//topics/framework
+Front end is the programming and layout that people see and interact with.,Front end,http://www.github.com//topics/frontend
+A game engine is a software framework used to develop and create video games.,Game engine,http://www.github.com//topics/game-engine
+MongoDB is an open source NoSQL document-oriented database.,MongoDB,http://www.github.com//topics/mongodb
+Mongoose is a MongoDB object modeling tool designed to work in an asynchronous environment.,Mongoose,http://www.github.com//topics/mongoose
+"Monitor the impact of your code changes. Measure performance, track errors, and analyze your application.",Monitoring,http://www.github.com//topics/monitoring
+"The .NET MVVM framework for cross-platform solutions, including Xamarin.iOS, Xamarin.Android, Windows, and Mac.",MvvmCross,http://www.github.com//topics/mvvmcross
+MySQL is an open source relational database management system.,MySQL,http://www.github.com//topics/mysql
+NativeScript is a JavaScript-native mobile framework.,NativeScript,http://www.github.com//topics/nativescript
+"Nim is a statically typed, compiled, garbage-collected systems programming language.",Nim,http://www.github.com//topics/nim
+Natural language processing (NLP) is the study of how computers and humans interact.,Natural language processing,http://www.github.com//topics/nlp
+Node.js is a tool for executing JavaScript in a variety of environments.,Node.js,http://www.github.com//topics/nodejs
+A NoSQL database refers to a database whose storage format is modeled differently from relational databases.,NoSQL,http://www.github.com//topics/nosql
+npm is a package manager for JavaScript included with Node.js.,npm,http://www.github.com//topics/npm
+"Objective-C is general purpose, object-oriented programming language used for macOS and iOS operating systems.",Objective-C,http://www.github.com//topics/objective-c
+OpenGL is a software interface that allows a programmer to communicate with graphics hardware.,OpenGL,http://www.github.com//topics/opengl
+An operating system is a program that manages a computer's programs and applications.,Operating system,http://www.github.com//topics/operating-system
+Peer-to-Peer applications are decentralized or distributed.,P2P,http://www.github.com//topics/p2p
+A package manager is a set of tools that automates and manages computer software.,Package manager,http://www.github.com//topics/package-manager
+Parsing is the process of analyzing a string of symbols conforming to the rules of a formal grammar.,Parsing,http://www.github.com//topics/parsing
+Python is a dynamically typed programming language.,Python,http://www.github.com//topics/python
+"Qt, pronounced ""cute"", is a cross-platform application development framework.",Qt,http://www.github.com//topics/qt
+R is a free programming language and software environment for statistical computing and graphics.,R,http://www.github.com//topics/r
+Ruby on Rails (Rails) is a web application framework written in Ruby.,Rails,http://www.github.com//topics/rails
+The Raspberry Pi is a popular single-board computer.,Raspberry Pi,http://www.github.com//topics/raspberry-pi
+Ratchet is a set of libraries to handle WebSockets asynchronously in PHP.,Ratchet,http://www.github.com//topics/ratchet
+React is an open source JavaScript library used for designing user interfaces.,React,http://www.github.com//topics/react
+React Native is a JavaScript mobile framework developed by Facebook.,React Native,http://www.github.com//topics/react-native
+"ReactiveUI is a composable, cross-platform model-view-viewmodel framework for all .NET platforms.",ReactiveUI,http://www.github.com//topics/reactiveui
+Redux is a predictable state container for JavaScript apps.,Redux,http://www.github.com//topics/redux
+A representational state transfer (REST) API is a way to provide compatibility between computer systems on the internet.,REST API,http://www.github.com//topics/rest-api
+Perl is a highly capable and feature-rich programming language.,Perl,http://www.github.com//topics/perl
+Ruby is a scripting language designed for simplified object-oriented programming.,Ruby,http://www.github.com//topics/ruby
+Rust is a systems programming language created by Mozilla.,Rust,http://www.github.com//topics/rust
+Sass is a stable extension to classic CSS.,Sass,http://www.github.com//topics/sass
+Scala is an object-oriented programming language.,Scala,http://www.github.com//topics/scala
+scikit-learn is a Python module for machine learning.,scikit-learn,http://www.github.com//topics/scikit-learn
+"Software-defined networking (SDN) is an architecture for programmable, centrally managed networks.",Software-defined networking,http://www.github.com//topics/sdn
+"Cybersecurity is the protection of computer hardware, software, and data from theft, damage, and malicious intent.",Security,http://www.github.com//topics/security
+A server is a program made to process requests and deliver data to clients.,Server,http://www.github.com//topics/server
+Serverless architecture refers to apps that depend on third-party services or custom code.,Serverless,http://www.github.com//topics/serverless
+"A shell is a command-line tool, designed to be run by the Unix shell.",Shell,http://www.github.com//topics/shell
+"Sketch is a vector graphics editor for Apple's macOS, used primarily for user interface and icon design.",Sketch,http://www.github.com//topics/sketch
